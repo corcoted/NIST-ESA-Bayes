@@ -1,4 +1,6 @@
 # NIST-ESA-Bayes
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/corcoted/NIST-ESA-Bayes/master)
+
 Python Jupyter Notebooks for Bayesian approach to examples in NIST's Engineering Statistics Handbook
 
 This repository contains workbooks for analyzing the data in the NIST/SEMATECH e-Handbook of Statistical Methods, also known as the Engineering Statistics Handbook, from a Bayesian approach.  It may be found at https://www.itl.nist.gov/div898/handbook/
