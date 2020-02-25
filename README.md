@@ -1,5 +1,5 @@
 # NIST-ESA-Bayes
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/corcoted/NIST-ESA-Bayes/master)
+<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/corcoted/NIST-ESA-Bayes/master) -->
 
 Python Jupyter Notebooks for Bayesian approach to examples in NIST's Engineering Statistics Handbook
 
